@@ -1,0 +1,10 @@
+{
+  "user": {
+    "password": "123",
+    "role": "user"
+  },
+  "finance": {
+    "password": "financeakarsawhb231",
+    "role": "finance"
+  }
+}
