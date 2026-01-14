@@ -4,7 +4,11 @@
     "role": "user"
   },
   "finance": {
-    "password": "financeakarsawhb231",
+    "password": "finance213",
+    "role": "finance"
+  },"muthi": {
+    "password": "muthi213",
     "role": "finance"
   }
+  
 }
