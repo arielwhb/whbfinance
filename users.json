@@ -6,9 +6,16 @@
   "finance": {
     "password": "finance213",
     "role": "finance"
-  },"muthi": {
+  },
+  
+  "muthi": {
     "password": "muthi213",
     "role": "finance"
+  },
+  
+  "finance1": {
+    "password": "muthi213",
+    "role": "finance1"
   }
   
 }
